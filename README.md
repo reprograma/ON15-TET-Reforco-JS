@@ -234,4 +234,4 @@ console.log(verTodos) // retorno  🍎🍇🍎🍌🍎🥑
 
 ### 6. Exercícios de revisão
 
-- Ainda no domingo 15/05/2022 os exercícios serão adicionados neste espaço do repositório e no classroom com todas as explicações de como realizá-los, além de comentários com dicas. Os exercícios não são entregáveis e devem ser utilizdos para reforçar o aprendizado
+- ANos próximos dias os exercícios serão adicionados neste espaço do repositório e no classroom com todas as explicações de como realizá-los, além de comentários com dicas. Os exercícios não são entregáveis e devem ser utilizdos para reforçar o aprendizado
