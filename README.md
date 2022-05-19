@@ -234,4 +234,4 @@ console.log(verTodos) // retorno  🍎🍇🍎🍌🍎🥑
 
 ### 6. Exercícios de revisão
 
-- ANos próximos dias os exercícios serão adicionados neste espaço do repositório e no classroom com todas as explicações de como realizá-los, além de comentários com dicas. Os exercícios não são entregáveis e devem ser utilizdos para reforçar o aprendizado
+- Exercícios adicionados no arquivo `exercícios.js`
