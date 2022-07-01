@@ -7,6 +7,7 @@
     <p>
         Esta revisão foi criada para a turma online: Todas em Tech on15 - Back-end, nesta aula do dia 15/05/2022 tivemos os seguintes conteúdos: 
 <b>
+</div>
 
 - Funções;
 - Objetos;
@@ -17,7 +18,7 @@
 
 </b>.
     </p>
-</div>
+
 
 <br>
 
@@ -25,7 +26,7 @@
 
 <div align = "justify">
 
-No dia 15 de maio de 2022, tivemos uma aula de revisão sobre funções, objetos, métodos de arrays e async/await. Como tarefa opcional, foram atribuidos dois exercícios a fim de exercitar os assuntos revistos durante a aula. Nesse repositório, é possível encontrar dos exercícios clicando: [exercício1]() e [exercicio2]().
+No dia 15 de maio de 2022, tivemos uma aula de revisão sobre funções, objetos, métodos de arrays e async/await. Como tarefa opcional, foram atribuidos dois exercícios a fim de exercitar os assuntos revistos durante a aula. Nesse repositório, é possível encontrar dos exercícios clicando: [exercício1](https://github.com/BrunaCelestino/ON15-TET-Reforco-JS/blob/BrunaCelestino/para-o-lar/exercicio1.js) e [exercicio2](https://github.com/BrunaCelestino/ON15-TET-Reforco-JS/blob/BrunaCelestino/para-o-lar/exercicio2.js).
 
 <br>
 
